@@ -31,6 +31,12 @@ body {
   }
 
   @media screen and (max-widht: 785px){
+      
+      body {
+        max-width: 80vw;
+        max-height: 80vh;
+     }
+      
      p {
         font-size: 30px;
      }
