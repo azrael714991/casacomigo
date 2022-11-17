@@ -29,3 +29,15 @@ body {
   #change:hover {
     cursor:pointer;
   }
+
+  @media screen and (max-widht: 785px){
+     p {
+        font-size: 30px;
+     }
+
+     button {
+        font-size: 30px;
+        
+     }
+
+  }  
